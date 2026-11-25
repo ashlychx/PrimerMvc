@@ -1,0 +1,6 @@
+espoch\edu\ec\primermvc\PrimerMvc.class
+espoch\edu\ec\primermvc\vista\Vista.class
+espoch\edu\ec\primermvc\modelo\Operacion.class
+espoch\edu\ec\primermvc\modelo\Operaciones.class
+espoch\edu\ec\primermvc\controlador\ControladorOperaciones.class
+espoch\edu\ec\primermvc\modelo\InterfazOperacion.class
